@@ -1,2 +1,2 @@
 import emoji
-print(emoji.emojize("Olá mÚndo :sunglasses:", use_aliases=True))
+print(emoji.emojize('Olá mÚndo :earth_americas:', use_aliases=True))
