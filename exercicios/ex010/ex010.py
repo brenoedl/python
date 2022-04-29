@@ -1,0 +1,23 @@
+# Cores das letras
+print('\033[30m Breno \033[m')
+print('\033[31m Breno \033[m')
+print('\033[32m Breno \033[m')
+print('\033[33m Breno \033[m')
+print('\033[34m Breno \033[m')
+print('\033[35m Breno \033[m')
+print('\033[36m Breno \033[m')
+print('\033[37m Breno \033[m')
+print(' '*5)# Estilo das letras
+print('\033[0m Breno \033[m')
+print('\033[1m Breno \033[m')
+print('\033[4m Breno \033[m')
+print('\033[7m Breno \033[m')
+print(' '*5)# Cores de fundo
+print('\033[40m Breno \033[m')
+print('\033[41m Breno \033[m')
+print('\033[42m Breno \033[m')
+print('\033[43m Breno \033[m')
+print('\033[44m Breno \033[m')
+print('\033[45m Breno \033[m')
+print('\033[46m Breno \033[m')
+print('\033[47m Breno \033[m')
