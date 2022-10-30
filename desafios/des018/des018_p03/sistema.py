@@ -12,7 +12,10 @@ while True:
     if resp == 1:
         lerarq(arq)
     elif resp == 2:
-        cabesalio('opc 02')
+        cabesalio('Novo cadastro')
+        nome = str(input('Nome: '))
+        idade = leiaint('Idade: ')
+        cadastrar(arq, nome, idade)
     elif resp == 3:
         cabesalio('saindo do sistema... até logo')
         break
